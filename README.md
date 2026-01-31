@@ -2,5 +2,6 @@
 small java files organized by topic
 
 ## Run
-***bash
-java filename.java
+```bash
+javac  Filename.java
+java Filename
